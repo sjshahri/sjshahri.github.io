@@ -15,6 +15,6 @@
 -Some University
 
 
-# Work History
+## Work History
 -Workplace 1
 -Workplace 2
