@@ -1,4 +1,4 @@
-# SYEDA SHAHRIN
+SYEDA SHAHRIN
 -ELECTRICAL ENGINEER
 
 ## ABOUT
@@ -22,7 +22,7 @@ Bachelor of Science (BS) in Electrical Engineering (GPA 3.5)
 ![## RESUME](/assets/Screenshot (834)-1.png)
 
 
-## REFLECTIONS
+REFLECTIONS
 
 ### REFLECTION 1
 ![### REFLECTION 1](/assets/Reflection 1_page-0001.jpg)
@@ -44,7 +44,6 @@ Bachelor of Science (BS) in Electrical Engineering (GPA 3.5)
 
 
 ## INTEGRATED LEARNING
-
 -WN4SS LAB
 Department of Electrical Engineering,
 University at Buffalo.
