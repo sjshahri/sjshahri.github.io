@@ -3,7 +3,14 @@
 #### ELECTRICAL ENGINEER
 
 ## ABOUT
--Hello! I'm SYEDA SHAHRIN, pursuing my Master's Degree in Electrical Engineering at the University at Buffalo. 
+#### 💫 About Me:
+Hello! I'm SYEDA SHAHRIN, pursuing my Master's Degree in Electrical Engineering at the University at Buffalo.
+
+
+#### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SYEDA SHAHRIN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sjshahri@buffalo.edu) 
+
+
 ### Education
 -University at Buffalo, The State University of New York (SUNY) Buffalo, NY, USA
 Master of Science (MS) in Electrical Engineering (GPA 3.7) 
