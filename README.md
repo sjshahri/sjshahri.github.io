@@ -19,11 +19,12 @@ Master of Science (MS) in Electrical Engineering (GPA 3.7)
 Bachelor of Science (BS) in Electrical Engineering (GPA 3.5) 
 
 ### Graduate Student
-#### Linkedin: [#### Linkedin](/www.linkedin.com/in/syeda-shahrin-570051204)
+#### Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SYEDA SHAHRIN)   
+[#### Linkedin](/www.linkedin.com/in/syeda-shahrin-570051204)
 #### Phone: +(716)-808-1654
 #### City: New York, USA
 #### Degree: MS in Electrical Engineering
-#### Email: sjshahri@buffalo.edu
+#### Email: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sjshahri@buffalo.edu)
 
 
 ## RESUME
@@ -93,9 +94,9 @@ Python, Julia, MATLAB.
 
 
 ## CONTACT
-#### Linkedin: [#### Linkedin](/www.linkedin.com/in/syeda-shahrin-570051204)
+#### Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SYEDA SHAHRIN) 
 
 | +1(716)8081645 |
 
-sjshahri@buffalo.edu , 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sjshahri@buffalo.edu)   , 
 shahrin.jafri@gmail.com
