@@ -29,7 +29,7 @@
 ## REFLECTIONS
 ### REFLECTION 1
 ![### REFLECTION 1](/assets/Reflection 1_page-0001.jpg)
-
+![### REFLECTION 1](/assets/Reflection 1_page-0002.jpg)
 
 ## INTEGRATED LEARNING
 -Workplace 1
