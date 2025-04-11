@@ -22,7 +22,7 @@
 
 
 ## RESUME
--Workplace 1
+![## RESUME](/assets/Screenshot (834)-1.png)
 -Workplace 2
 
 ## REFLECTIONS
