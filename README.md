@@ -64,9 +64,13 @@ I am dedicated to spearheading positive transformations in the renewable energy 
 
 ## CITATIONS
 1. ![## CITATIONS](https://typeset.io/papers/sinr-rsrp-rssi-and-rsrq-measurements-in-long-term-evolution1qxf6s1xub)
-2. IEEEDocumentonNetworkPerformanceAnalysis
-3. ImpactofEnvironmentalFactorsonNetworkPerformance
-4. HeatmapVisualizationinNetworkAnalysisWorkplace 1
+2. ![## CITATIONS](https://ieeexplore.ieee.org/document/9623247)         
+3. ![## CITATIONS](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-023-02282-z) 
+4. ![## CITATIONS](https://ieeexplore.ieee.org/document/10570321)
+5. ![## CITATIONS](https://ieeexplore.ieee.org/document/8672910)
+6. ![## CITATIONS](https://journals.sagepub.com/doi/full/10.1177/0037549719880911)
+7. ![## CITATIONS](https://www.sciencedirect.com/science/article/abs/pii/S1389128619304133)
+8. ![## CITATIONS](https://dl.acm.org/doi/10.1145/3341449.3341465)
 
 
 ## CONTACT
