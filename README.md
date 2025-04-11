@@ -55,7 +55,7 @@ I am dedicated to spearheading positive transformations in the renewable energy 
 ![### REFLECTION 3](/assets/Reflection 3_page-0002.jpg)
 
 ### REFLECTION 4
-![### REFLECTION 4](/
+![### REFLECTION 4](/assets/Reflection 4_page-0001.jpg)
 ![### REFLECTION 4](/
 
 ## INTEGRATED LEARNING
