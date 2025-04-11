@@ -26,7 +26,7 @@
 -Workplace 2
 
 ## REFLECTIONS
--Workplace 1
+![## REFLECTIONS](/assets/Reflection 1.pdf)
 -Workplace 2
 
 ## INTEGRATED LEARNING
