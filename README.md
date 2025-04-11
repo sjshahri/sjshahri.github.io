@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/ZE3XuF4rnVlAI"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN0dWMwbWd5amx2dW94cXN4dWQzMW9uNDJ1ZWR2ZDBiZGlqZXQ4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZE3XuF4rnVlAI/giphy.gif"  />
 
 #### ELECTRICAL ENGINEER
 
