@@ -84,7 +84,6 @@ Python, Julia, MATLAB.
 
 
 ## CONTACT
--[## CONTACT](https://www.linkedin.com/in/syeda-shahrin-570051204)  
-
+#### Linkedin: [#### Linkedin](/www.linkedin.com/in/syeda-shahrin-570051204)
 | +1(716)8081645 |
 sjshahri@buffalo.edu , shahrin.jafri@gmail.com
