@@ -1,6 +1,6 @@
-# sjshahri.github.io
+# SYEDA SHAHRIN
 
-## Projects
+## ABOUT
 ### Project 1
 -Description
 ![### Project 1](/assets/Screenshot (703).png)
@@ -21,6 +21,22 @@
 -Some University
 
 
-## Work History
+## RESUME
+-Workplace 1
+-Workplace 2
+
+## REFLECTIONS
+-Workplace 1
+-Workplace 2
+
+## INTEGRATED LEARNING
+-Workplace 1
+-Workplace 2
+
+## CITATIONS
+-Workplace 1
+-Workplace 2
+
+## CONTACT
 -Workplace 1
 -Workplace 2
