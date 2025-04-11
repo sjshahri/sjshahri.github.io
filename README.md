@@ -63,8 +63,11 @@ I am dedicated to spearheading positive transformations in the renewable energy 
 -Workplace 2
 
 ## CITATIONS
--Workplace 1
--Workplace 2
+1. SINR,RSRP,RSSI,andRSRQMeasurements inLong-TermEvolution
+2. IEEEDocumentonNetworkPerformanceAnalysis
+3. ImpactofEnvironmentalFactorsonNetworkPerformance
+4. HeatmapVisualizationinNetworkAnalysisWorkplace 1
+
 
 ## CONTACT
 -Workplace 1
