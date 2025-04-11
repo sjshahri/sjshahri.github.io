@@ -94,7 +94,9 @@ Python, Julia, MATLAB.
 ## CITATIONS
 
  a. [REFERENCE-1](https://typeset.io/papers/sinr-rsrp-rssi-and-rsrq-measurements-in-long-term-evolution1qxf6s1xub)
- b. [REFERENCE-2](https://ieeexplore.ieee.org/document/9623247)      
+ 
+ b. [REFERENCE-2](https://ieeexplore.ieee.org/document/9623247)  
+ 
  c. [REFERENCE-3](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-023-02282-z)
  d. [REFERENCE-4](https://ieeexplore.ieee.org/document/10570321)
  e. [REFERENCE-5](https://ieeexplore.ieee.org/document/8672910)
