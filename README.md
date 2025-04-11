@@ -15,7 +15,7 @@ Hello! I'm SYEDA SHAHRIN, pursuing my Master's Degree in Electrical Engineering 
 
 
 #### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SYEDA SHAHRIN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sjshahri@buffalo.edu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SYEDASHAHRIN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sjshahri@buffalo.edu) 
 
 
 ### Education
@@ -26,7 +26,7 @@ Master of Science (MS) in Electrical Engineering (GPA 3.7)
 Bachelor of Science (BS) in Electrical Engineering (GPA 3.5) 
 
 ### Graduate Student
-#### Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SYEDA SHAHRIN)   
+#### Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SYEDASHAHRIN)   
 #### Phone: +(716)-808-1654
 #### City: New York, USA
 #### Degree: MS in Electrical Engineering
@@ -92,14 +92,16 @@ Programming Languages:
 Python, Julia, MATLAB.
 
 ## CITATIONS
- [REFERENCE-1](https://typeset.io/papers/sinr-rsrp-rssi-and-rsrq-measurements-in-long-term-evolution1qxf6s1xub)
- [REFERENCE-2](https://ieeexplore.ieee.org/document/9623247)      
- [REFERENCE-3](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-023-02282-z)
- [REFERENCE-4](https://ieeexplore.ieee.org/document/10570321)
- [REFERENCE-5](https://ieeexplore.ieee.org/document/8672910)
- [REFERENCE-6](https://journals.sagepub.com/doi/full/10.1177/0037549719880911)
- [REFERENCE-7](https://www.sciencedirect.com/science/article/abs/pii/S1389128619304133)
- [REFERENCE-8](https://dl.acm.org/doi/10.1145/3341449.3341465)
+
+ a. [REFERENCE-1](https://typeset.io/papers/sinr-rsrp-rssi-and-rsrq-measurements-in-long-term-evolution1qxf6s1xub)
+ b. [REFERENCE-2](https://ieeexplore.ieee.org/document/9623247)      
+ c. [REFERENCE-3](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-023-02282-z)
+ d. [REFERENCE-4](https://ieeexplore.ieee.org/document/10570321)
+ e. [REFERENCE-5](https://ieeexplore.ieee.org/document/8672910)
+ f. [REFERENCE-6](https://journals.sagepub.com/doi/full/10.1177/0037549719880911)
+ g. [REFERENCE-7](https://www.sciencedirect.com/science/article/abs/pii/S1389128619304133)
+ h. [REFERENCE-8](https://dl.acm.org/doi/10.1145/3341449.3341465)
+ 
 ###
 
 <div align="left">
