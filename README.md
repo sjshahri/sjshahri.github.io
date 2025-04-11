@@ -1,6 +1,7 @@
 # SYEDA SHAHRIN
 
 ## ABOUT
+
 ### Project 1
 -Description
 ![### Project 1](/assets/Screenshot (703).png)
@@ -26,7 +27,9 @@
 
 
 ## REFLECTIONS
-![## REFLECTIONS](/assets/Reflection 1_page-0001.jpg)
+### REFLECTION 1
+![### REFLECTION 1](/assets/Reflection 1_page-0001.jpg)
+
 
 ## INTEGRATED LEARNING
 -Workplace 1
