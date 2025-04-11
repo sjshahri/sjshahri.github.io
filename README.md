@@ -10,7 +10,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN0dWMwbWd5amx2dW94cXN4dWQzMW9uNDJ1ZWR2ZDBiZGlqZXQ4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZE3XuF4rnVlAI/giphy.gif"  />
+<imgalign="right"height="150"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl5amoydTVscmltZW9lZGFlZHB5dGpyZ2xpOGl2bWI4ZXk4Y3o0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8DBtABhSH9Ak7qr6R/giphy.gif"  />
+###
+
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl5amoydTVscmltZW9lZGFlZHB5dGpyZ2xpOGl2bWI4ZXk4Y3o0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8DBtABhSH9Ak7qr6R/giphy.gif"  />
 
 #### ELECTRICAL ENGINEER
 
