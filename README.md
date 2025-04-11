@@ -37,7 +37,7 @@ Bachelor of Science (BS) in Electrical Engineering (GPA 3.5)
 ## REFLECTIONS
 
 ### REFLECTION 1
-![### REFLECTION 1](/assets/Reflection 1_page-0001.jpg)
+![### REFLECTION 1](/assets/Reflection 1_page-0001-00.jpg)
 ![### REFLECTION 1](/assets/Reflection 1_page-0002.jpg)
 ![### REFLECTION 1](/assets/Reflection 1_page-0003.jpg)
 
