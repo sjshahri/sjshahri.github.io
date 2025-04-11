@@ -27,7 +27,6 @@ Bachelor of Science (BS) in Electrical Engineering (GPA 3.5)
 
 ### Graduate Student
 #### Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SYEDA SHAHRIN)   
-[#### Linkedin](/www.linkedin.com/in/syeda-shahrin-570051204)
 #### Phone: +(716)-808-1654
 #### City: New York, USA
 #### Degree: MS in Electrical Engineering
@@ -101,7 +100,23 @@ Python, Julia, MATLAB.
 7. [## CITATIONS](https://journals.sagepub.com/doi/full/10.1177/0037549719880911)
 8. [## CITATIONS](https://www.sciencedirect.com/science/article/abs/pii/S1389128619304133)
 9. [## CITATIONS](https://dl.acm.org/doi/10.1145/3341449.3341465)
+###
 
+<div align="left">
+  <img src="https://typeset.io/papers/sinr-rsrp-rssi-and-rsrq-measurements-in-long-term-evolution1qxf6s1xub"  />
+  <img width="12" />
+  <img src="https://ieeexplore.ieee.org/document/9623247"  />
+  <img width="12" />
+  <img src="https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-023-02282-z"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
 ## CONTACT
 #### Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SYEDA SHAHRIN) 
