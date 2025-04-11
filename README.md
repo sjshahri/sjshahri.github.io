@@ -92,7 +92,7 @@ Programming Languages:
 Python, Julia, MATLAB.
 
 ## CITATIONS
-1. [## CITATIONS](https://typeset.io/papers/sinr-rsrp-rssi-and-rsrq-measurements-in-long-term-evolution1qxf6s1xub)
+1. [REFERENCE-1](https://typeset.io/papers/sinr-rsrp-rssi-and-rsrq-measurements-in-long-term-evolution1qxf6s1xub)
 3. [## CITATIONS](https://ieeexplore.ieee.org/document/9623247)      
 4. [## CITATIONS](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-023-02282-z)
 5. [## CITATIONS](https://ieeexplore.ieee.org/document/10570321)
