@@ -1,6 +1,6 @@
-SYEDA SHAHRIN
+#### SYEDA SHAHRIN
 
--ELECTRICAL ENGINEER
+#### ELECTRICAL ENGINEER
 
 ## ABOUT
 -Hello! I'm SYEDA SHAHRIN, pursuing my Master's Degree in Electrical Engineering at the University at Buffalo. 
@@ -18,9 +18,11 @@ Bachelor of Science (BS) in Electrical Engineering (GPA 3.5)
 #### Degree: MS in Electrical Engineering
 #### Email: sjshahri@buffalo.edu
 
+
 ## RESUME
 
 ![## RESUME](/assets/Screenshot (834)-1.png)
+
 
 
 ## REFLECTIONS
@@ -73,9 +75,9 @@ Programming Languages:
 Python, Julia, MATLAB.
 
 ## CITATIONS
-1. [## CITATIONS](https://typeset.io/papers/sinr-rsrp-rssi-and-rsrq-measurements-in-long-term-evolution1qxf6s1xub)   
-3. [## CITATIONS](https://ieeexplore.ieee.org/document/9623247)         
-4. [## CITATIONS](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-023-02282-z) 
+1. [## CITATIONS](https://typeset.io/papers/sinr-rsrp-rssi-and-rsrq-measurements-in-long-term-evolution1qxf6s1xub)
+3. [## CITATIONS](https://ieeexplore.ieee.org/document/9623247)      
+4. [## CITATIONS](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-023-02282-z)
 5. [## CITATIONS](https://ieeexplore.ieee.org/document/10570321)
 6. [## CITATIONS](https://ieeexplore.ieee.org/document/8672910)
 7. [## CITATIONS](https://journals.sagepub.com/doi/full/10.1177/0037549719880911)
@@ -85,5 +87,8 @@ Python, Julia, MATLAB.
 
 ## CONTACT
 #### Linkedin: [#### Linkedin](/www.linkedin.com/in/syeda-shahrin-570051204)
+
 | +1(716)8081645 |
-sjshahri@buffalo.edu , shahrin.jafri@gmail.com
+
+sjshahri@buffalo.edu , 
+shahrin.jafri@gmail.com
