@@ -26,8 +26,7 @@
 
 
 ## REFLECTIONS
-
-![## REFLECTIONS](https://ublearns.buffalo.edu/d2l/common/viewFile.d2lfile/Database/NzEzMTM3NA/Reflection%201,2,3,_4.pdf?ou=263525)
+![## REFLECTIONS](/assets/Reflection 1_page-0001.jpg)
 
 ## INTEGRATED LEARNING
 -Workplace 1
