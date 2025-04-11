@@ -21,7 +21,7 @@ Bachelor of Science (BS) in Electrical Engineering (GPA 3.5)
 
 ## RESUME
 
-![## RESUME](/assets/Screenshot (834)-1.png)
+![## RESUME](/assets/Syeda_Shahrin_Resume_page-0001.jpg)
 
 
 
