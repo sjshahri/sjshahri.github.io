@@ -1,4 +1,5 @@
 SYEDA SHAHRIN
+
 -ELECTRICAL ENGINEER
 
 ## ABOUT
@@ -22,7 +23,7 @@ Bachelor of Science (BS) in Electrical Engineering (GPA 3.5)
 ![## RESUME](/assets/Screenshot (834)-1.png)
 
 
-REFLECTIONS
+## REFLECTIONS
 
 ### REFLECTION 1
 ![### REFLECTION 1](/assets/Reflection 1_page-0001.jpg)
@@ -72,8 +73,7 @@ Programming Languages:
 Python, Julia, MATLAB.
 
 ## CITATIONS
-1. [## CITATIONS](https://typeset.io/papers/sinr-rsrp-rssi-and-rsrq-measurements-in-long-term-evolution1qxf6s1xub)
-   
+1. [## CITATIONS](https://typeset.io/papers/sinr-rsrp-rssi-and-rsrq-measurements-in-long-term-evolution1qxf6s1xub)   
 3. [## CITATIONS](https://ieeexplore.ieee.org/document/9623247)         
 4. [## CITATIONS](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-023-02282-z) 
 5. [## CITATIONS](https://ieeexplore.ieee.org/document/10570321)
@@ -84,5 +84,7 @@ Python, Julia, MATLAB.
 
 
 ## CONTACT
--www.linkedin.com/in/syeda-shahrin-570051204    
-| +1(716)8081645 | sjshahri@buffalo.edu , shahrin.jafri@gmail.com
+-[## CONTACT](https://www.linkedin.com/in/syeda-shahrin-570051204)  
+
+| +1(716)8081645 |
+sjshahri@buffalo.edu , shahrin.jafri@gmail.com
