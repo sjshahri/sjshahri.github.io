@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
 -Description
-!eee(/assets/Screenshot (703).png)
+![### Project 1](/assets/Screenshot (703).png)
 
 -Links
 
