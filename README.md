@@ -26,7 +26,7 @@
 -Workplace 2
 
 ## REFLECTIONS
-![## REFLECTIONS](file:///C:/Users/Jafri/Downloads/Reflection%201.pdf)
+![## REFLECTIONS](/docs/assets/Reflection 1.pdf)
 
 ## INTEGRATED LEARNING
 -Workplace 1
