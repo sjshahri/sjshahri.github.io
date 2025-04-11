@@ -59,22 +59,31 @@ Bachelor of Science (BS) in Electrical Engineering (GPA 3.5)
 
 ## INTEGRATED LEARNING
 -WN4SS LAB
+
 Department of Electrical Engineering,
 University at Buffalo.
+
 Research Student (Thesis Project: “Comprehensive Analysis of Cellular Network Performance”)( January 2024 – March 2025)
+
 ● Through this thesis project, I analyzed cellular network performance using key performance indicators (KPIs) such as
 SINR, RSRQ, and RSRP.
+
 ● The heatmaps, combined with scatter plots, provided a comprehensive understanding of network performance and offered
 actionable insights for optimization.
+
 ● Also developed a deeper understanding of how environmental factors like urban density and obstructions impact network
 performance, which is crucial for optimizing network infrastructure.
 
 -University at Buffalo Nanosatellite Laboratory
+
 Department of Mechanical and Aerospace Engineering,
 University at Buffalo. Buffalo, NY
+
 Nanosatellite (GLADOS) project assistant (January 2024 – May 2024)
+
 ● Through this project, I analyzed the communication system for small satellites. Performed developing the system using
 ADAM PTUTO.
+
 
 ## SKILLS
 
