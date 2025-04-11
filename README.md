@@ -92,14 +92,14 @@ Programming Languages:
 Python, Julia, MATLAB.
 
 ## CITATIONS
-1. [REFERENCE-1](https://typeset.io/papers/sinr-rsrp-rssi-and-rsrq-measurements-in-long-term-evolution1qxf6s1xub)
-3. [## CITATIONS](https://ieeexplore.ieee.org/document/9623247)      
-4. [## CITATIONS](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-023-02282-z)
-5. [## CITATIONS](https://ieeexplore.ieee.org/document/10570321)
-6. [## CITATIONS](https://ieeexplore.ieee.org/document/8672910)
-7. [## CITATIONS](https://journals.sagepub.com/doi/full/10.1177/0037549719880911)
-8. [## CITATIONS](https://www.sciencedirect.com/science/article/abs/pii/S1389128619304133)
-9. [## CITATIONS](https://dl.acm.org/doi/10.1145/3341449.3341465)
+ [REFERENCE-1](https://typeset.io/papers/sinr-rsrp-rssi-and-rsrq-measurements-in-long-term-evolution1qxf6s1xub)
+ [REFERENCE-2](https://ieeexplore.ieee.org/document/9623247)      
+ [REFERENCE-3](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-023-02282-z)
+ [REFERENCE-4](https://ieeexplore.ieee.org/document/10570321)
+ [REFERENCE-5](https://ieeexplore.ieee.org/document/8672910)
+ [REFERENCE-6](https://journals.sagepub.com/doi/full/10.1177/0037549719880911)
+ [REFERENCE-7](https://www.sciencedirect.com/science/article/abs/pii/S1389128619304133)
+ [REFERENCE-8](https://dl.acm.org/doi/10.1145/3341449.3341465)
 ###
 
 <div align="left">
