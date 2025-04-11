@@ -6,6 +6,7 @@
 ### Education
 -University at Buffalo, The State University of New York (SUNY) Buffalo, NY, USA
 Master of Science (MS) in Electrical Engineering (GPA 3.7) 
+
 -Premier University (Department of Electrical and Electronic Engineering) Chittagong, Bangladesh
 Bachelor of Science (BS) in Electrical Engineering (GPA 3.5) 
 
@@ -44,8 +45,7 @@ Bachelor of Science (BS) in Electrical Engineering (GPA 3.5)
 
 ## INTEGRATED LEARNING
 
-### -WN4SS LAB
-WN4SS LAB
+-WN4SS LAB
 Department of Electrical Engineering,
 University at Buffalo.
 Research Student (Thesis Project: “Comprehensive Analysis of Cellular Network Performance”)( January 2024 – March 2025)
@@ -55,7 +55,8 @@ SINR, RSRQ, and RSRP.
 actionable insights for optimization.
 ● Also developed a deeper understanding of how environmental factors like urban density and obstructions impact network
 performance, which is crucial for optimizing network infrastructure.
-### -University at Buffalo Nanosatellite Laboratory
+
+-University at Buffalo Nanosatellite Laboratory
 Department of Mechanical and Aerospace Engineering,
 University at Buffalo. Buffalo, NY
 Nanosatellite (GLADOS) project assistant (January 2024 – May 2024)
@@ -63,10 +64,12 @@ Nanosatellite (GLADOS) project assistant (January 2024 – May 2024)
 ADAM PTUTO.
 
 ## SKILLS
-### Electrical: 
+
+Electrical: 
 CAD applications, Power World, PSpice Software, Proteus, Simulink, Programmable logic controller, Analog
 and Digital Circuit design, CMOS, VLSI, Simulink, Windows, Linux
-### Programming Languages: 
+
+Programming Languages: 
 Python, Julia, MATLAB.
 
 ## CITATIONS
